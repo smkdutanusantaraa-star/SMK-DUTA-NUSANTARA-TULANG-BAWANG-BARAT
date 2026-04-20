@@ -23,7 +23,16 @@
 <!-- Navbar -->
 <nav class="bg-blue-900 text-white p-4 flex justify-between items-center">
   <div class="flex items-center space-x-3">
-    <img src="logo-smk.png" alt="Logo SMK Duta Nusantara" class="w-12 h-12 object-contain bg-white rounded-full p-1 logo-anim">
+   <div class="logo">
+  <img src="logo.png" alt="Logo SMK Duta Nusantara">
+</div>
+
+<style>
+.logo img {
+  width: 120px;
+  height: auto;
+}
+</style>
     <h1 class="text-xl font-bold">SMK Duta Nusantara</h1>
   </div>
   <div class="space-x-4">
