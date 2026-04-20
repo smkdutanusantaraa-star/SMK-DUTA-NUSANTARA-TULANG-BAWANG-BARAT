@@ -58,17 +58,19 @@
     <h2 class="text-2xl font-bold mb-4">Profil Sekolah</h2>
     <p>SMK Duta Nusantara merupakan sekolah menengah kejuruan swasta yang berlokasi di Jl. Pangeran Diponegoro, Lingkungan V RT 001 RW 002, Kelurahan Daya Murni, Kecamatan Tumijajar, Kabupaten Tulang Bawang Barat, Provinsi Lampung, Indonesia. Sekolah ini berdiri berdasarkan Surat Keputusan Pendirian Nomor 800/043/SK/SMK-DT_NS/TBB/VI/2020 yang diterbitkan pada tanggal 2 Juni 2020, dan telah memperoleh izin operasional pada 4 September 2020.
 
-Sebagai lembaga pendidikan kejuruan, SMK Duta Nusantara berkomitmen untuk menyelenggarakan pendidikan yang berorientasi pada pengembangan keterampilan, pengetahuan, dan karakter peserta didik agar siap bersaing di dunia kerja maupun melanjutkan ke jenjang pendidikan yang lebih tinggi. Dengan status kepemilikan di bawah yayasan, sekolah ini terus berupaya meningkatkan kualitas layanan pendidikan serta berkontribusi dalam pembangunan sumber daya manusia di wilayah Lampung.>
+Sebagai lembaga pendidikan kejuruan, SMK Duta Nusantara berkomitmen untuk menyelenggarakan pendidikan yang berorientasi pada pengembangan keterampilan, pengetahuan, dan karakter peserta didik agar siap bersaing di dunia kerja maupun melanjutkan ke jenjang pendidikan yang lebih tinggi. Dengan status kepemilikan di bawah yayasan, sekolah ini terus berupaya meningkatkan kualitas layanan pendidikan serta berkontribusi dalam pembangunan sumber daya manusia di wilayah Lampung.</p>
 
 <!-- Visi -->
 <section id="visi" class="p-10 bg-gray-200">
   <div class="max-w-4xl mx-auto bg-white p-6 rounded-2xl shadow">
     <h2 class="text-2xl font-bold mb-4">Visi & Misi</h2>
-    <p class="mb-2">Visi: Sekolah unggulan dan berdaya saing global</p>
+    <p class="mb-2">Menjadi SMK Unggul di Bidang Perhotelan, Desain Komunikasi Visual dan Bisnis Retail, yang mengedepankan pembentukan karakter profil pancasila serta mengutamakan keberpihakan pada kepentingan dan potensi peserta didik</p>
     <ul class="list-disc pl-5">
-      <li>Pendidikan berbasis kompetensi</li>
-      <li>Penguatan karakter</li>
-      <li>Kerjasama industri</li>
+      <li>Mengukuhkan Nilai-nilai Pancasila</li>
+      <li>Menyediakan Lingkungan Belajar yang Inklusif</li>
+      <li>Memaksimalkan Potensi Individui</li>
+      <li>Mengintegrasikan Nilai Pancasila dalam Kurikulum</li>
+      <li>Membangun kemitraan dan komunitas</li>
     </ul>
   </div>
 </section>
