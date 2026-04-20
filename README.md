@@ -1,8 +1,6 @@
 # SMK-DUTA-NUSANTARA-TULANG-BAWANG-BARAT
 <html lang="id">
 <head>
-  <meta charset="UTF-8">
-  <img src="logo.png" alt="Logo SMK Duta Nusantara" width="200">
   <title>SMK Duta Nusantara</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <!-- Favicon -->
