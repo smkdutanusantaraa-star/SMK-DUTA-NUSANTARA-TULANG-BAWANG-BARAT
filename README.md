@@ -1,5 +1,4 @@
 # SMK-DUTA-NUSANTARA-TULANG-BAWANG-BARAT
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
