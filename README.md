@@ -48,7 +48,7 @@
 
 <!-- Hero -->
 <section class="bg-blue-800 text-white text-center py-20">
-  <h2 class="text-4xl font-bold mb-4">Selamat Datang di SMK Duta Nusantara</h2>
+  <h2 class="text-8xl font-bold mb-4">WELCOME</h2>
   <p>Sekolah Kejuruan Unggul, Siap Kerja, Siap Kuliah, Siap Wirausaha</p>
 </section>
 
