@@ -141,6 +141,3 @@ Sebagai lembaga pendidikan kejuruan, SMK Duta Nusantara berkomitmen untuk menyel
     document.getElementById('successMsg').classList.remove('hidden');
   });
 </script>
-
-</body>
-</html>
