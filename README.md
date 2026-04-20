@@ -5,13 +5,27 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SMK Duta Nusantara</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Favicon -->
+  <link rel="icon" href="logo-smk.png" type="image/png">
+
+  <!-- Animasi Logo -->
+  <style>
+    .logo-anim {
+      animation: spin 3s linear infinite;
+    }
+
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+  </style>
 </head>
 <body class="bg-gray-100 font-sans">
 
 <!-- Navbar -->
 <nav class="bg-blue-900 text-white p-4 flex justify-between items-center">
   <div class="flex items-center space-x-3">
-    <img src="https://via.placeholder.com/50" alt="Logo Sekolah" class="rounded-full">
+    <img src="logo-smk.png" alt="Logo SMK Duta Nusantara" class="w-12 h-12 object-contain bg-white rounded-full p-1 logo-anim">
     <h1 class="text-xl font-bold">SMK Duta Nusantara</h1>
   </div>
   <div class="space-x-4">
