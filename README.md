@@ -56,9 +56,9 @@
 <section id="profil" class="p-10">
   <div class="max-w-4xl mx-auto bg-white p-6 rounded-2xl shadow">
     <h2 class="text-2xl font-bold mb-4">Profil Sekolah</h2>
-    <p>SMK Duta Nusantara merupakan sekolah menengah kejuruan yang berkomitmen mencetak lulusan kompeten dan berkarakter.</p>
-  </div>
-</section>
+    <p>SMK Duta Nusantara merupakan sekolah menengah kejuruan swasta yang berlokasi di Jl. Pangeran Diponegoro, Lingkungan V RT 001 RW 002, Kelurahan Daya Murni, Kecamatan Tumijajar, Kabupaten Tulang Bawang Barat, Provinsi Lampung, Indonesia. Sekolah ini berdiri berdasarkan Surat Keputusan Pendirian Nomor 800/043/SK/SMK-DT_NS/TBB/VI/2020 yang diterbitkan pada tanggal 2 Juni 2020, dan telah memperoleh izin operasional pada 4 September 2020.
+
+Sebagai lembaga pendidikan kejuruan, SMK Duta Nusantara berkomitmen untuk menyelenggarakan pendidikan yang berorientasi pada pengembangan keterampilan, pengetahuan, dan karakter peserta didik agar siap bersaing di dunia kerja maupun melanjutkan ke jenjang pendidikan yang lebih tinggi. Dengan status kepemilikan di bawah yayasan, sekolah ini terus berupaya meningkatkan kualitas layanan pendidikan serta berkontribusi dalam pembangunan sumber daya manusia di wilayah Lampung.>
 
 <!-- Visi -->
 <section id="visi" class="p-10 bg-gray-200">
