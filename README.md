@@ -79,9 +79,9 @@ Sebagai lembaga pendidikan kejuruan, SMK Duta Nusantara berkomitmen untuk menyel
 <section id="jurusan" class="p-10">
   <h2 class="text-center text-2xl font-bold mb-6">Program Keahlian</h2>
   <div class="grid md:grid-cols-4 gap-6 max-w-6xl mx-auto">
-    <div class="bg-white p-4 rounded-2xl shadow text-center">Perhotelan</div>
-    <div class="bg-white p-4 rounded-2xl shadow text-center">Desain Komunikasi Visual</div>
-    <div class="bg-white p-4 rounded-2xl shadow text-center">Bisnis Retail</div>
+    <div class="bblue p-4 rounded-2xl shadow text-center">Perhotelan</div>
+    <div class="bg-blue p-4 rounded-2xl shadow text-center">Desain Komunikasi Visual</div>
+    <div class="bg-blue p-4 rounded-2xl shadow text-center">Bisnis Retail</div>
   </div>
 </section>
 
