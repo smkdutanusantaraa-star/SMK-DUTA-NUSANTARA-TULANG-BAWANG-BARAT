@@ -52,8 +52,6 @@
   <p>Sekolah Kejuruan Unggul, Siap Kerja, Siap Kuliah, Siap Wirausaha</p>
 </section>
 
-<!-- Footer -->
-<footer class="bg-blue-900 text-white text-center p-4">
 <!-- Profil -->
 <section id="profil" class="p-10">
   <div class="max-w-4xl mx-auto bg-white p-6 rounded-2xl shadow">
